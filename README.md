@@ -1,4 +1,4 @@
-# Tracer
+# GitOrch
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -10,7 +10,7 @@
 _v 1.0.0_
 
  ## Introduction
- Tracer is a open-source agile tool to monitor and track the progress of your team or organisation. 
+ GitOrch is a open-source agile tool to monitor and track the progress of your team or organisation. 
 
  ### Key Features
 

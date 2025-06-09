@@ -34,7 +34,7 @@ services:
     build: 
       context: ./backend
       dockerfile: Dockerfile.backend
-    container_name: tracer-backend
+    container_name: gitOrch-backend
     networks:
       - network
     ports:
@@ -50,7 +50,7 @@ services:
     build: 
       context: ./frontend
       dockerfile: Dockerfile.frontend
-    container_name: tracer-frontend
+    container_name: gitOrch-frontend
     networks:
       - network
     env_file: 

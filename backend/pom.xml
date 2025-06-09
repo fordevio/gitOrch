@@ -16,7 +16,7 @@
 	<artifactId>activityleaderboard</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>activityleaderboard</name>
-	<description>Spring boot backend for tracer</description>
+	<description>Spring boot backend for gitOrch</description>
 
 	<!-- Project properties to set versions for plugins and dependencies -->
 	<properties>

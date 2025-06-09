@@ -53,7 +53,7 @@ const Login = () => {
           <img src={heroImg} alt='' />
         </div>
         <div className='hero_content'>
-          <h1>TRACER</h1>
+          <h1>GITORCH</h1>
           <h3>
             Track your progress, healthy competition in organization others, and
             unleash your GitHub potential"

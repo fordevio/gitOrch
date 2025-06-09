@@ -20,12 +20,12 @@ Contributions of all kind are welcomed
 
 #### Clone the Repo
 ```
-git clone https://github.com/mdgspace/Tracer.git
+git clone https://github.com/fordevio/gitOrch.git
 ```
 #### Change current folder to project folder
 
 ```
-cd Tracer
+cd gitOrch
 ```
 #### Start postgres and redis servers
 
@@ -75,12 +75,12 @@ mvn test
 
 #### Clone the Repo
 ```
-git clone https://github.com/mdgspace/Tracer.git
+git clone https://github.com/fordevio/gitOrch.git
 ```
 #### Change current folder to project folder
 
 ```
-cd Tracer
+cd gitOrch
 ```
 
 #### Create env.list file using env.list.example
