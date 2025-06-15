@@ -10,6 +10,7 @@
 _v 1.0.0_
 
  ## Introduction
+
  GitOrch is a open-source agile tool to monitor and track the progress of your team or organisation. 
 
  ### Key Features
@@ -64,10 +65,13 @@ _v 1.0.0_
 
 
 ### Contributing
+
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
-### Live Status
-The project is live at https://leaderboard.mdgspace.org
+### Acknowledgement
+
+The project is a fork of [mdgspace/tracer](https://github.com/mdgspace/tracer)
+
 
 
 
